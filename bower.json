@@ -1,0 +1,11 @@
+{
+  "name": "ng-contextmenu",
+  "description": "mouse right context menu",
+  "main": "gruntfile.js",
+  "authors": [
+    "Shariar Shaikot"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": ""
+}
