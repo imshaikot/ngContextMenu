@@ -63,7 +63,20 @@ AngularJS Custom Context Menu Provider to customize your mouse right clicked con
   ``` 
   This method use to access the top level API - parameter is name of your context menu that you want to access.
   This method will return a method object for subsequent listing item `index(number)` and this method will return a set of method 
-  object for subsequent listing item `getTitle()` `setTitle(String)` `getDisable()` `setDisable(Boolean)` `getListen()` `setListen(Function)`
+  object for subsequent listing item 
+  
+  `getTitle()` 
+  
+  `setTitle(String)` 
+  
+  `getDisable()` 
+  
+  `setDisable(Boolean)` 
+  
+  `getListen()` 
+  
+  `setListen(Function)`
+  
   So the code will be something like this
   ```javascript
   contextMenu.name("main").index(0).setTitle("New Title");
